@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500869515446",
+    "project_id": "bellsmirror-68162",
+    "storage_bucket": "bellsmirror-68162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500869515446:android:8a20bb3c7e31606c83be17",
+        "android_client_info": {
+          "package_name": "com.yemi.bells_mirror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500869515446-ovp0b62ov7ru1d9k0mmk9p4vig953ue7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFmTMLNq32B3K9C49z50MZFkZxI0AEYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500869515446-ovp0b62ov7ru1d9k0mmk9p4vig953ue7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
